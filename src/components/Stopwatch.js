@@ -41,7 +41,7 @@ const Stopwatch = () => {
         {isRunning ? 'Pause' : 'Start'}
       </button>
       <button onClick={handleStop}>Stop</button>
-      <button onClick={handleReset}>Reset</button>
+      <button onClick={handleReset}>Reset </button>
     </div>
   );
 };
