@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .timer-display {
+    font-size: 36px;
+  }
+
+  button {
+    padding: 8px 16px;
+    font-size: 14px;
+  }
+}
